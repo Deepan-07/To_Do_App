@@ -28,7 +28,7 @@ This project is a part of a hackathon run by [https://www.katomaran.com](https:/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/Deepan-07/Todo_app.git
+   git clone https://github.com/Deepan-07/To_Do_App.git
    cd todo_app
    flutter pub get
    flutter run
